@@ -1,2 +1,3 @@
-# Invitation letter
-This app is designed to make life easier while planning an event.
+# Harry Potter API
+This API is about characters from the Harry Potter universe
+## 
